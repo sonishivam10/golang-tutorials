@@ -1,0 +1,3 @@
+[submodule "example"]
+	path = workspace/example
+	url = https://github.com/golang/example
